@@ -1,4 +1,5 @@
-# SAFEtrack - Sistema de Ayuda Funcional para Equipos en Terreno
+# SAFEtrack
+# Sistema de Ayuda Funcional para Equipos en Terreno
 
 ## Captura de métricas de salud y ambientales de equipos en terreno
 

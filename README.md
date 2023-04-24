@@ -1,13 +1,13 @@
 # SAFEtrack
-# Sistema de Ayuda Funcional para Equipos en Terreno
+## Sistema de Ayuda Funcional para Equipos en Terreno
 
-## Captura de métricas de salud y ambientales de equipos en terreno
+### Captura de métricas de salud y ambientales de equipos en terreno
 
 Para apoyar el trabajo de los equipos en terreno se propone crear un wearable inteligente que mida en tiempo real la posición, salud y estado del personal, para ser monitoreados constantemente por una central que además reúna las condiciones meteorológicas para instruir de mejor forma al personal, garantizando su integridad y salud.
 
 Se utilizará un sistema Base que recibe las métricas de forma local (Edge), actuando como una caja negra almacenando los datos en crudo, y a su vez exhortándolos a la nube.
 
-## Funciones principales
+### Funciones principales
 
 1. Captura de métricas y eventos en sitio
 
